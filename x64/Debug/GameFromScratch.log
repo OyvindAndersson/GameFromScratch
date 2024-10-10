@@ -1,0 +1,5 @@
+﻿  win32_gfs.cpp
+E:\Dev\Source\GameFromScratch\code\platform\win32\win32_gfs.cpp(374,27): warning C4244: 'initializing': conversion from 'WPARAM' to 'uint32', possible loss of data
+E:\Dev\Source\GameFromScratch\code\platform\win32\win32_gfs.cpp(375,23): warning C4244: 'initializing': conversion from 'LPARAM' to 'uint32', possible loss of data
+E:\Dev\Source\GameFromScratch\code\platform\win32\win32_gfs.cpp(578,25): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  GameFromScratch.vcxproj -> E:\Dev\Source\GameFromScratch\x64\Debug\GameFromScratch.exe
